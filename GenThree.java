@@ -1,4 +1,4 @@
-public class Gen3 {
+public class GenThree {
     public static void main(String[] args) {
         
         	// First, give the variables the command line arguments.
